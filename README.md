@@ -28,7 +28,7 @@ CMYK print-press aesthetic: Zilla Slab + Space Mono, halftone dot overlays, regi
 
 ## Contribute
 
-Found an activity that belongs here? [Open an issue](https://github.com/meimakes/toddlerlabs.com/issues/new) with the details.
+Found an activity that belongs here? [Open an issue](https://github.com/madebydia/toddlerlabs.com/issues/new) with the details.
 
 ---
 
@@ -41,8 +41,8 @@ Found an activity that belongs here? [Open an issue](https://github.com/meimakes
 ## Related
 
 - [Raising Pixels](https://raisingpixels.dev) — Newsletter for parent developers
-- [@meimakes](https://x.com/meimakes) — Creator
+- [@madebydia](https://x.com/madebydia) — Creator
 
 ---
 
-Built by [@meimakes](https://x.com/meimakes)
+Built by [@madebydia](https://x.com/madebydia)

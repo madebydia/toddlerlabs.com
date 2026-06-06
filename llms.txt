@@ -1,7 +1,7 @@
 # Toddler Labs — LLM Directory
 
 > 115+ free educational activities and browser games for toddlers ages 2-5.
-> No ads, no tracking, no accounts. Built by @meimakes.
+> No ads, no tracking, no accounts. Built by @madebydia.
 > https://toddlerlabs.com
 
 ## About
@@ -152,11 +152,11 @@ All activities include: age range (2-3), category, skill focus, messiness level,
 - Flight Path — Problem Solving + Spatial — Ages 3-5 — https://airplanes.games/flight-path.html
 - Cargo Count — Counting + 1:1 Correspondence — Ages 3-5 — https://airplanes.games/cargo-count.html
 
-### From Toddler Labs / meimakes
+### From Toddler Labs / madebydia
 - Tiny Terminal — Keyboard + Cause & Effect — Ages 2-5 — https://tiny-terminal.com
-- Word Train — Phonics + Blending — Ages 3-6 — https://meimakes.com/word-train/
-- Shapes — Geometry + Vocabulary — Ages 2-4 — https://meimakes.com/shapes/
-- Bigger Than Race — Number Sense + Comparison — Ages 3-6 — https://meimakes.com/bigger-than-race/
+- Word Train — Phonics + Blending — Ages 3-6 — https://mama.dev/word-train/
+- Shapes — Geometry + Vocabulary — Ages 2-4 — https://mama.dev/shapes/
+- Bigger Than Race — Number Sense + Comparison — Ages 3-6 — https://mama.dev/bigger-than-race/
 
 ### Full Game Collection
 - 25+ educational browser games — All free, no ads, no accounts — https://madladstudios.com
@@ -164,4 +164,4 @@ All activities include: age range (2-3), category, skill focus, messiness level,
 ## Related Resources
 - Build With Your Kid (ebook): 12 weeks of tech projects for toddlers — https://buildwithyourkid.com
 - Raising Pixels (Substack): Parenting + tech newsletter — https://raisingpixels.dev
-- GitHub: https://github.com/meimakes/toddlerlabs.com
+- GitHub: https://github.com/madebydia/toddlerlabs.com
